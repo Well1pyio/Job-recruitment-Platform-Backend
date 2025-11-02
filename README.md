@@ -17,7 +17,10 @@
 ## 🌐 Live Demo
 
 🚀 **Deployed API Base URL:**  
-[https://your-app.onrender.com/api](https://your-app.onrender.com/api)
+
+Base URL: [https://job-recruitment-platform-backend.onrender.com/](https://job-recruitment-platform-backend.onrender.com/)
+
+You can test endpoints using Postman or the provided API Workflow document.
 
 ## 🚀 Project Overview
 

